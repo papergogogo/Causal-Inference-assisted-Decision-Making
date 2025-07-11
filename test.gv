@@ -1,0 +1,8 @@
+digraph g {
+ "betaHCG" -> "betaHCG_" [label=0.251,arrowtail=none, arrowhead=normal]; 
+ "AMH" -> "FSH" [label=-1.288,arrowtail=none, arrowhead=normal]; 
+ "AMH" -> "LH" [label=0.104,arrowtail=none, arrowhead=normal]; 
+ "PRG" -> "RBS" [label=0.104,arrowtail=none, arrowhead=normal]; 
+ "FSH" -> "RBS" [label=-0.114,dir=both, arrowtail=normal, arrowhead=none]; 
+ "LH" -> "RBS" [label=-0.005,dir=both, arrowtail=normal, arrowhead=none]; 
+}

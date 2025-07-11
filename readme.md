@@ -16,7 +16,7 @@ pip install pandas numpy scikit-learn pycausal graphviz jupyter statsmodels matp
 ## Usage
 ### 1. Data Preprocessing
 ```bash
-jupyter pcos-prediction-and-analysis.ipynb  # run some cells
+jupyter notebook pcos-prediction-and-analysis.ipynb  # run some cells
 ```
 
 ### 2. Causal Graph Construction
